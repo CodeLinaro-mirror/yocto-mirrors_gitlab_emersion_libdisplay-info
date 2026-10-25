@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
 
+# /// script
+# dependencies = ["pdfplumber"]
+# ///
+
 import os
 import sys
 import pdfplumber
